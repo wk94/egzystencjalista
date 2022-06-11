@@ -16,6 +16,8 @@
 
 Powyższy opis stanowi wstęp do dyskusji o prawdziwych problemach współczesnego świata i człowieka. Naucz się myśleć krytycznie i wypracuj świadome podejście do życia, aby zmieniać nie świat, ale siebie, na lepsze!
 
+---
+
 ## Z ostatniej chwili
 - [[Wojny wybuchają przez podniety niedojrzałych emocjonalnie dzieci|Wojny wybuchają przez podniety niedojrzałych emocjonalnie dzieci]]
 - [[Twoje dziecko nie musi się uczyć historii i matematyki|Twoje dziecko nie musi się uczyć historii i matematyki]]
@@ -23,6 +25,8 @@ Powyższy opis stanowi wstęp do dyskusji o prawdziwych problemach współczesne
 - [[Nie ma sensu uczyć się na pamięć, skoro możesz znaleźć cokolwiek w internecie w 5 minut|Nie ma sensu uczyć się na pamięć, skoro możesz znaleźć cokolwiek w internecie w 5 minut]]
 - [[Podatki nakładane na najbiedniejszych to droga donikąd|Podatki nakładane na najbiedniejszych to droga donikąd]]
 - [[Nigdy nie wyjdziemy z kryzysu klimatycznego, jeśli nie zlikwidujemy pieniędzy|Nigdy nie wyjdziemy z kryzysu klimatycznego, jeśli nie zlikwidujemy pieniędzy]]
+
+---
 
 ## Poradniki
 - [[pages/Jak  porządkować cyfrowe notatki|Jak  porządkować cyfrowe notatki]]
