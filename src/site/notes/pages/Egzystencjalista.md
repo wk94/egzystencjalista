@@ -23,3 +23,11 @@ Powyższy opis stanowi wstęp do dyskusji o prawdziwych problemach współczesne
 - [[Nie ma sensu uczyć się na pamięć, skoro możesz znaleźć cokolwiek w internecie w 5 minut|Nie ma sensu uczyć się na pamięć, skoro możesz znaleźć cokolwiek w internecie w 5 minut]]
 - [[Podatki nakładane na najbiedniejszych to droga donikąd|Podatki nakładane na najbiedniejszych to droga donikąd]]
 - [[Nigdy nie wyjdziemy z kryzysu klimatycznego, jeśli nie zlikwidujemy pieniędzy|Nigdy nie wyjdziemy z kryzysu klimatycznego, jeśli nie zlikwidujemy pieniędzy]]
+
+## Poradniki
+- [[pages/Jak  porządkować cyfrowe notatki|Jak  porządkować cyfrowe notatki]]
+- [[pages/Second Brain - PARA|Second Brain - PARA]]
+- [[pages/Struktura folderów|Struktura folderów]]
+- [[markdown-cheat-sheet|markdown-cheat-sheet]]
+- [[checkbox-icons|checkbox-icons]]
+- [[callouts|callouts]]
