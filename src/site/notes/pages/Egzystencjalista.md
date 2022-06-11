@@ -32,6 +32,5 @@ Powyższy opis stanowi wstęp do dyskusji o prawdziwych problemach współczesne
 - [[pages/Jak  porządkować cyfrowe notatki|Jak  porządkować cyfrowe notatki]]
 - [[pages/Second Brain - PARA|Second Brain - PARA]]
 - [[pages/Struktura folderów|Struktura folderów]]
-- [[markdown-cheat-sheet|markdown-cheat-sheet]]
 - [[checkbox-icons|checkbox-icons]]
 - [[callouts|callouts]]
