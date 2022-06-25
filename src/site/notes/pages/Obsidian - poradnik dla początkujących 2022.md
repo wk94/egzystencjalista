@@ -26,7 +26,7 @@ Konfiguracja wtyczek znajduje się poniżej.
 
 Możesz oczywiście używać takiego motywu, jaki ci się najbardziej spodoba. Sam używałem kiedyś motywu *Cybertron*, potem *LYT Mode*. Żaden jednak nie wpłynął tak bardzo na sposób mojej pracy w tym programie, jak właśnie *Minimal Theme*.
 
-[[checkbox-icons|checkbox-icons]]
+[[pages/checkbox-icons|checkbox-icons]]
 
 ---
 
