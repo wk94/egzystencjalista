@@ -3,7 +3,7 @@ title: "/{{ page.fileSlug }}/"
 permalink: "notes/{{ page.fileSlug | slugify }}/"
 ---
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pl">
   <head>
     <title>{{ page.fileSlug }}</title>
     {%include "components/pageheader.njk"%}
@@ -13,7 +13,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
 
     <div class="content">
       {% if dgHomeLink !== false%}
-        <a href="/">🏡 Back Home</a>
+        <a href="/">🏡 Strona główna</a>
       {% endif %}
       {{ content | link | highlight | safe}}
     </div>
