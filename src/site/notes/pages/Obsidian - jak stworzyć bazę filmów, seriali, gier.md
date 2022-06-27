@@ -96,6 +96,3 @@ tags: "#mediaDB/tv/movie"
 - Możemy obejść ten problem zmieniając nazwę tego pola na swoją w ustawieniach wtyczki *Media DB*.
 
 **Brawo!** Właśnie stworzyłeś/aś swoją bazę filmów, seriali, gier, czy co tam jeszcze chcesz śledzić. Mogłoby się wydawać, że to trudne, ale wystarczy zrozumieć podstawowe zasady działania wtyczki *Dataview*, aby tworzyć jeszcze bardziej skomplikowane bazy danych.
-
-## Źródła
-- 
