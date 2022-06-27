@@ -11,6 +11,7 @@
 - [[pages/Markdown - poradnik dla początkujących|Markdown - poradnik dla początkujących]]
 - [[pages/Obsidian - poradnik dla początkujących 2022|Obsidian - poradnik dla początkujących 2022]]
 - [[Obsidian - poradnik dla zaawansowanych 2022|Obsidian - poradnik dla zaawansowanych 2022]]
+- [[pages/Obsidian - jak stworzyć bazę filmów, seriali, gier|Obsidian - jak stworzyć bazę filmów, seriali, gier]]
 - [[Obsidian - 3 najlepsze motywy 2022|Obsidian - 3 najlepsze motywy 2022]]
 - [[Obsidian - 5 najlepszych wtyczek 2022|Obsidian - 5 najlepszych wtyczek 2022]]
 - [[Obsidian - 3 niezbędne wtyczki 2022|Obsidian - 3 niezbędne wtyczki 2022]]
